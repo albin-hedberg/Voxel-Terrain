@@ -1,5 +1,4 @@
 # Voxel-Terrain
-Dependencies: SDL2, SDL2_image
 
 [Ladda ner (64-bit build)](https://github.com/albin-hedberg/Voxel-Terrain/raw/master/Voxel-Terrain-Build.zip)
 
