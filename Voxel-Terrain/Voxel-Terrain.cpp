@@ -7,8 +7,8 @@
 #include <math.h>
 #include <glad/glad.h>
 
-#define WINDOW_W 800	// Display resolution
-#define WINDOW_H 600	// Display resolution
+#define WINDOW_W 800
+#define WINDOW_H 600
 
 #define SCALE_FACTOR 200	// Används till rendering projection
 #define CAM_POS_X 512
